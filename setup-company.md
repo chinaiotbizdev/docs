@@ -17,7 +17,7 @@
 * Interview and passport is required.
 * Accountant fee more expensive (we don't know how much)
 
-* b. By Chinese
+ ### By Chinese:
     * We need to different persons:
         * Legal personality & Manager
             * it has 100% of shares of the company
