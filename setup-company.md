@@ -18,12 +18,12 @@
 * Accountant fee more expensive (we don't know how much)
 
  ### By Chinese:
-    * We need to different persons:
-        * Legal personality & Manager
-            * it has 100% of shares of the company
-            * it's the CEO of the company
-        * Supervisor
-            *  make shareholders happy
+* We need to different persons:
+    * Legal personality & Manager
+        * it has 100% of shares of the company
+        * it's the CEO of the company
+    * Supervisor
+        *  make shareholders happy
  * time to have the company: 3 - 5 days (if government check location 15 days).
 
 ### Costs:
